@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Muflih Kholidin
 - 👀  I’m interested in research and technology
 - 🌱  I’m currently learning golang and python
-- 📫  Feel free to contact me at mmuflic@gmail.com
+- 📫  Feel free to contact me at https://www.linkedin.com/in/muflih/
 
 <!---
 mmuflih/mmuflih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
