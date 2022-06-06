@@ -1,6 +1,5 @@
 - 👋  Hi, I’m Muflih Kholidin
 - 👀  I’m interested in research and technology
-- 🌱  I’m currently learning golang and python
 - 📫  Feel free to contact me at https://www.linkedin.com/in/muflih/
 
 <!---
